@@ -21,4 +21,4 @@ Oluşturulan bir yapay sinir ağında elde edilen parametreleri ve katmanların 
 * Keras
 
 ## Olası Hatalar:
-Path error alındığı takdirde, C: dizini altında *tmp* bir klasör oluşturun.
+Path error alındığı takdirde, C: dizini altında *tmp* adlı klasör oluşturun.
