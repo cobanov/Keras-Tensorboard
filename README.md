@@ -2,6 +2,8 @@
 
 Bu repo tensorboard özelliklerini keras ile kullanmak için örnek çalışmalar içerir.
 
+![Tensorboard Keras](https://media.giphy.com/media/1pA8T9iMWWnOg7Kuej/giphy.gif)
+
 ## Kullanım:
 Gerekli kütüphaneler kurulduğunda komut satırı üzerinden `python kerasboard.py` komutu ile çalıştırılabilir.
 
