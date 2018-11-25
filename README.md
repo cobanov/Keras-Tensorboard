@@ -5,7 +5,7 @@ Bu repo tensorboard özelliklerini keras ile kullanmak için örnek çalışmala
 ## Kullanım:
 Gerekli kütüphaneler kurulduğunda komut satırı üzerinden `python kerasboard.py` komutu ile çalıştırılabilir.
 
-Model eğitimi tamamlandıktan sonra programın son çıktısı komut satırında çalıştırılarak tarayıcıda `localhost:6006` adresine gidilerek grafikler gözlenebilir.
+Model eğitimi tamamlandıktan sonra programın son çıktısı komut satırında çalıştırılarak tarayıcıda `localhost:6006` adresinde grafikler gözlenebilir.
 
 ## Nedir:
 Oluşturulan bir yapay sinir ağında elde edilen parametreleri ve katmanların incelenmesi için kullanılan tensorboard'un keras ile nasıl çalıştırılacağı adına örnek bir proje.
