@@ -44,8 +44,7 @@ model.add(Dense(num_classes, activation='softmax'))
 kerasboard = TensorBoard(log_dir="/tmp/tensorboard/{}".format(time),
                         batch_size=batch_size,
                         histogram_freq=1,
-                        write_grads=True,
-                        update_freq="epoch")
+                        write_grads=False)
 
 model.compile(loss="categorical_crossentropy",
               optimizer="adam",
