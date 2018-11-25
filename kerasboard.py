@@ -6,7 +6,6 @@ Amaç: Keras ile TensorBoard kullanımı.
 Veriseti: MNIST (http://yann.lecun.com/exdb/mnist/)
 Algoritma: Evrişimli Sinir Ağları (Convolutional Neural Networks)
 Ek: Çalışma ile ilgili rehber README.md dosyasında belirtilmiştir.
-
 """
 
 import keras
