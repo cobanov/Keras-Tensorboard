@@ -9,6 +9,8 @@ Gerekli kütüphaneler kurulduğunda komut satırı üzerinden `python kerasboar
 
 Model eğitimi tamamlandıktan sonra programın son çıktısı komut satırında çalıştırılarak tarayıcıda `localhost:6006` adresinde grafikler gözlenebilir.
 
+![Kerasboard](https://media.giphy.com/media/7zxZ8mOddFwZvTZJoa/giphy.gif)
+
 ## Nedir:
 Oluşturulan bir yapay sinir ağında elde edilen parametreleri ve katmanların incelenmesi için kullanılan tensorboard'un keras ile nasıl çalıştırılacağı adına örnek bir proje.
 
