@@ -16,7 +16,7 @@ Oluşturulan bir yapay sinir ağında elde edilen parametreleri ve katmanların 
 
 ## Model:
 * Data: MNIST
-* Tür: Konvolüsyonel Sinir Ağı
+* Tür: CNN
 * Optimizer: Adam
 * Loss: Categorical Crossentropy
 
