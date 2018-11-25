@@ -1,3 +1,14 @@
+# -*- coding: utf-8 -*- 
+
+"""
+Deep Learning Türkiye topluluğu için Mert Çobanoğlu tarafından hazırlanmıştır.
+Amaç: Keras ile TensorBoard kullanımı.
+Veriseti: MNIST (http://yann.lecun.com/exdb/mnist/)
+Algoritma: Evrişimli Sinir Ağları (Convolutional Neural Networks)
+Ek: Çalışma ile ilgili rehber README.md dosyasında belirtilmiştir.
+
+"""
+
 import keras
 from keras.datasets import mnist
 from keras.models import Sequential
