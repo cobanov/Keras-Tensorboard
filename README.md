@@ -11,6 +11,8 @@ Model eğitimi tamamlandıktan sonra programın son çıktısı komut satırınd
 
 ![Kerasboard](https://media.giphy.com/media/7zxZ8mOddFwZvTZJoa/giphy.gif)
 
+Ayrıca kapsamlı rehbere Deep Learning Türkiye Medium sayfasından ulaşabilirsiniz. 
+[Rehber Linki](https://medium.com/deep-learning-turkiye/tensorboard-başlangıç-rehberi-198ea522b01) 
 ## Nedir:
 Oluşturulan bir yapay sinir ağında elde edilen parametreleri ve katmanların incelenmesi için kullanılan tensorboard'un keras ile nasıl çalıştırılacağı adına örnek bir proje.
 
