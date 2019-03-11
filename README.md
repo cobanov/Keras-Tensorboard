@@ -37,7 +37,7 @@ Path error alındığı takdirde, C: dizini altında *tmp* adlı klasör oluştu
 
 ## Authors
 
-* **Mert Çobanoğlu** - *Initial work* - [PurpleBooth](https://github.com/cobanov)
+* **Mert Çobanoğlu** - [cobanov](https://github.com/cobanov)
 
 ## License
 
