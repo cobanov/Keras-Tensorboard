@@ -31,7 +31,7 @@ Path error alındığı takdirde, C: dizini altında *tmp* adlı klasör oluştu
 
 ## Model:
 * Data: MNIST
-* Tür: CNN
+* Tür: ConvNet
 * Optimizer: Adam
 * Loss: Categorical Crossentropy
 
