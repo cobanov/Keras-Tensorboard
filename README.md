@@ -17,6 +17,7 @@ Ayrıca kapsamlı rehbere Deep Learning Türkiye Medium sayfasından ulaşabilir
 Python 3.x.x
 TensorFlow
 Keras
+Numpy
 ```
 
 ### Installing
